@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment variables (NEVER commit this!)
+.env
+.env.local
+
+# Build output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
